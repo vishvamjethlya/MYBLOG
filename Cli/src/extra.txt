@@ -1,0 +1,27 @@
+<div className="post">
+        <div className="image">
+          <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/best_foods_fitness_slideshow/493ss_Thinkstock_rf_peanut_butter.jpg?resize=652px:*&output-quality=100" alt =""/>
+        </div>
+        <div className ="texts">
+          <h2>Peanut Butter</h2>
+          <p className ="info">
+            <a className = "author">Vishvam Jethlya</a>
+            <time>2023-09-07 22:10</time>
+          </p>
+          <p className = "summary">While you train for a big event, the ideal post-workout snack combines protein with carbs. Revisit your childhood with a sandwich made with 2 slices of bread and 4 tablespoons of peanut butter.</p>
+        </div>
+      </div>
+
+      <div className="post">
+        <div className="image">
+          <img src="https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTk2MTM1OTk0OTA5NzI5OTM3/8-almonds.webp" alt =""/>
+        </div>
+        <div className="texts">
+          <h2>Almonds</h2>
+          <p className ="info">
+            <a className = "author">Vishvam Jethlya</a>
+            <time>2023-09-07 22:10</time>
+          </p>
+          <p className = "summary">High in protein, fiber, and vitamin E, almonds are great for your heart, digestive system, and skin. Although they're also loaded with healthy unsaturated fats, some guys avoid them because they're so calorie-dense.</p>
+        </div>
+      </div>
